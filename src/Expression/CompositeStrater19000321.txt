@@ -1,0 +1,4 @@
+"C:\Program Files\Java\jdk-14\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.3\lib\idea_rt.jar=60699:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.3\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\DELL\IdeaProjects\expression\out\production\expression Expression.TestExpressions
+5.0
+
+Process finished with exit code 0
